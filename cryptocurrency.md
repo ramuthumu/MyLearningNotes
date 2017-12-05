@@ -1,12 +1,10 @@
 
-newyorker.com
-The Crypto-Currency | The New Yorker
-By Joshua Davis
-27-35 minutes
-Bitcoin and its mysterious inventor.
-
-It’s not clear if bitcoin is legal, but there is no company in control and no one to arrest.
-Illustration by Grafilu
+Sourced from newyorker.com
+# The Crypto-Currency | The New Yorker
+                         By Joshua Davis
+  
+  
+  ### Bitcoin and its mysterious inventor.
 
 There are lots of ways to make money: You can earn it, find it, counterfeit it, steal it. Or, if you’re Satoshi Nakamoto, a preternaturally talented computer coder, you can invent it. That’s what he did on the evening of January 3, 2009, when he pressed a button on his keyboard and created a new currency called bitcoin. It was all bit and no coin. There was no paper, copper, or silver—just thirty-one thousand lines of code and an announcement on the Internet.
 
